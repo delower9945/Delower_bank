@@ -1,0 +1,30 @@
+body{
+    padding: 100px;
+    margin: 0;
+}
+.submit-area{
+    
+    margin-top: 40px;
+    padding: 50px;
+    border-radius: 40px;
+    box-shadow: 10px 10px 15px gray;
+}
+#tranjection-area{
+    display: none;
+}
+.status{
+    margin: 0 20px;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+}
+.deposit{
+    background-color: brown;
+   
+}
+.withdraw{
+    background-color: chartreuse;
+}
+.balance{
+    background-color: cyan;
+}
